@@ -1,3 +1,5 @@
+# Vox Development TS3 Bot
+
 **We do NOT provide support as this product has reached its end of life, which means there will be minimal updates and bug fixes.**
 
 The steps to set it up are the following;
